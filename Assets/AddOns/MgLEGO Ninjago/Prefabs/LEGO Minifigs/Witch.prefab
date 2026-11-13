@@ -309,7 +309,7 @@ MonoBehaviour:
   maxRotateSpeed: 450
   rotateAcceleration: 500
   jumpSpeed: 20
-  gravity: 1
+  gravity: 40
   stepAudioClips:
   - {fileID: 8300000, guid: 39948ec2175e749819ecd850a1d0e5af, type: 3}
   - {fileID: 8300000, guid: 97adc7a6316eb42039437d84c81b25c9, type: 3}
